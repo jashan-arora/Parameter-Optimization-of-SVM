@@ -63,9 +63,9 @@ The convergence graph is a useful tool for visualizing the performance of the mo
 
 In our case, the convergence graph shows the best accuracy achieved up to a particular iteration. This helps us understand how the model performance evolves during the random search process and when it reaches the highest accuracy.
 
-## Project Submitted By:
+## Submitted By:
 Name : Jashan Arora
   
 Roll No. : 102003206
 
-Sub-Group: 3CO9
+Group: 3CO9
